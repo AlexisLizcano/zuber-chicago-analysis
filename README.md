@@ -199,7 +199,7 @@ zuber-chicago-analysis/
 
 ## 👤 Autor
 
-**[Tu Nombre]**
+**Alexis Gonzalez Lizcano**
 
 - 💼 LinkedIn: [linkedin.com/in/alexis-gonzalez-lizcano](https://www.linkedin.com/in/alexis-gonzalez-lizcano/)
 - 🐙 GitHub: [@AlexisLizcano](https://github.com/AlexisLizcano)
